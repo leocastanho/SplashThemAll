@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Resupply
+  - TriggeredEnemy
+  - Gun
+  - Ground
+  - Bullet
+  - FireBlob
+  - Fire
+  - Boss
+  - Projectile
+  - Enemy
+  - BigProjectile
+  - Trigger1
+  - Trigger2
+  - Trigger3
+  - Trigger4
+  - Trigger5
+  - Trigger6
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - CamConfiner
+  - Enemy
+  - Player
+  - Trigger
+  - Platform
+  - FireBlob
+  - Ground
+  - Bucket
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
